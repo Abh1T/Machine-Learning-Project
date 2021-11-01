@@ -1,0 +1,42 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 27878,
+                "file_path": "results/chaser/My Behavior/My Behavior-27878.onnx",
+                "reward": null,
+                "creation_time": 1618067049.739826
+            },
+            {
+                "steps": 50221,
+                "file_path": "results/chaser/My Behavior/My Behavior-50221.onnx",
+                "reward": -0.21428571428571427,
+                "creation_time": 1618067186.473711
+            },
+            {
+                "steps": 80124,
+                "file_path": "results/chaser/My Behavior/My Behavior-80124.onnx",
+                "reward": 3.55,
+                "creation_time": 1618067358.808873
+            },
+            {
+                "steps": 100194,
+                "file_path": "results/chaser/My Behavior/My Behavior-100194.onnx",
+                "reward": 3.75,
+                "creation_time": 1618067466.531979
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100194,
+            "file_path": "results/chaser/My Behavior.onnx",
+            "reward": 3.75,
+            "creation_time": 1618067466.531979
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0",
+        "tensorflow_version": -1
+    }
+}
